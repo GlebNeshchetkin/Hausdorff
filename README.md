@@ -1,1 +1,2 @@
-# Hausdorff
+# Hausdorff Dimension Calculator
+distribution kit: 
